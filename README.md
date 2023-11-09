@@ -1,5 +1,5 @@
 
-#Ich bin Schnappi das kleine Krokodil,
+#[Ich bin Schnappi das kleine Krokodil,
 Komm aus Ägypten das liegt direkt am Nil.
 Zuerst lag ich in einem Ei,
 Dann schni schna schnappte ich mich frei.
@@ -24,4 +24,4 @@ Und dann, dann schlafe ich einfach ein.
 Schni schna schnappi schnappi schnappi schnapp
 Schni schna schnappi schnappi schnappi schnapp
 Schni schna schnappi schnappi schnappi schnapp
-Schni schna schnappi schnappi schnappi schnapp()
+Schni schna schnappi schnappi schnappi schnapp]
